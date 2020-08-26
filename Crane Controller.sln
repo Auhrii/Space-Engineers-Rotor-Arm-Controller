@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crane Controller", "Crane Controller\Crane Controller.csproj", "{3285B48B-322E-439A-B484-28DAF65F0DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3285B48B-322E-439A-B484-28DAF65F0DBC}.Debug|x64.ActiveCfg = Debug|x64
+		{3285B48B-322E-439A-B484-28DAF65F0DBC}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66F08DA-4769-46D9-993A-6259A020FEF4}
+	EndGlobalSection
+EndGlobal
